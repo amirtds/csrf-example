@@ -2,6 +2,8 @@
 
 Secure Flask App
 
+https://testdriven.io/blog/csrf-flask/
+
 ## Setup
 
 1. Create and activate a virtual environment
